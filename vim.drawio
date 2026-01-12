@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
+  <diagram name="Page-1" id="6cxYLb7FZTvQ7CvCV-O-">
+    <mxGraphModel dx="850" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-4" edge="1" parent="1" source="cOJO8IPaTLnDNKSeq1sS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cOJO8IPaTLnDNKSeq1sS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-8" edge="1" parent="1" source="cOJO8IPaTLnDNKSeq1sS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="cOJO8IPaTLnDNKSeq1sS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;Esc Mode&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;Command/Colon Mode&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-7" edge="1" parent="1" source="cOJO8IPaTLnDNKSeq1sS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="cOJO8IPaTLnDNKSeq1sS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;b&gt;Insert Mode&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-5" edge="1" parent="1" source="cOJO8IPaTLnDNKSeq1sS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" target="cOJO8IPaTLnDNKSeq1sS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;i&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;:&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cOJO8IPaTLnDNKSeq1sS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Esc&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="qkyu9do0J_364_Ns36_C">
+    <mxGraphModel dx="850" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-1" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.eventbridge_pipes;" value="" vertex="1">
+          <mxGeometry height="178" width="178" x="190" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;I/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;O/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-4" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.eventbridge_pipes;" value="" vertex="1">
+          <mxGeometry height="178" width="178" x="350" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;I/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="409" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;O/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vgnfxrbMQ3WTs5jLbZCp-7" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.eventbridge_pipes;" value="" vertex="1">
+          <mxGeometry height="178" width="178" x="510" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

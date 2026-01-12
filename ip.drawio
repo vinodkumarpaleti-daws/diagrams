@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="Page-1" id="zE5HsfbXhOg4eDH_gDwd">
+    <mxGraphModel dx="1892" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="560" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-2" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home.svg;" value="" vertex="1">
+          <mxGeometry height="48.5" width="50" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-3" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="" vertex="1">
+          <mxGeometry height="85" width="100" x="70" y="217.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Computer_Hardware_Cute_Style_vol_1-2890/cable__connector__usb__tech__plug__connection__device-1225.svg" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="-10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-5" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="250" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-6" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" value="" vertex="1">
+          <mxGeometry height="70" width="63" x="400" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-7" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cell_phone.svg;" value="" vertex="1">
+          <mxGeometry height="90" width="37.8" x="270" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-8" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" value="" vertex="1">
+          <mxGeometry height="90" width="54" x="409" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;External&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="50" y="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;Internal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="120" y="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;a href=&quot;https://whatismyipaddress.com/ip/59.182.17.212&quot; style=&quot;box-sizing: border-box; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; color: rgb(255, 255, 255); background-color: rgb(45, 88, 127); transition: 0.2s ease-in-out; font-size: 22px; font-weight: 700; text-align: start;&quot;&gt;59.182.17.212&lt;/a&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="-50" y="332.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;192.168.1.5&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="243.89999999999998" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;192.168.1.6&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="386.5" y="187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;192.168.1.7&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="250" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd9oRiiFMyp2wyVyE4Ja-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;1. Latency&lt;/b&gt;&lt;div&gt;&lt;b&gt;2. Not secure&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="690" y="225" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
