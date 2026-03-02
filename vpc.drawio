@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.4">
   <diagram name="Page-1" id="wqVuThajem9VKDMsp2Ao">
-    <mxGraphModel dx="1892" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,9 @@
           <mxGeometry height="320" width="760" x="40" y="440" as="geometry" />
         </mxCell>
         <mxCell id="nsqNQuvBX0fc-86_BKjV-27" edge="1" parent="1" source="nsqNQuvBX0fc-86_BKjV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nsqNQuvBX0fc-86_BKjV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRApnyOBUEbXbM7_qG_7-1" edge="1" parent="1" source="nsqNQuvBX0fc-86_BKjV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nsqNQuvBX0fc-86_BKjV-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nsqNQuvBX0fc-86_BKjV-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;Public Subnet&lt;/b&gt;" vertex="1">
